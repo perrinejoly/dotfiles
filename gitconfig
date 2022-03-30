@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = perrine.joly@mmibordeaux.com
+	name = Perrine Joly
